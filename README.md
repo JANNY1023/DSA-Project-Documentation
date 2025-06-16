@@ -14,5 +14,5 @@ Project Overview
 - Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
     - For Data collection
     - For Data Cleaning
-          1. Data Manipultion
-          2. Data Munching
+        1. Data Manipultion
+        2. Data Munching
