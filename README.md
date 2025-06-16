@@ -8,4 +8,8 @@ I have learnt quite a number og things ranging from Ms Excel to SQL and now to m
 
 Project Overview
 
+### Data sources
 
+### Tools Used
+- Ms Excel for Data Cleaning [Download Here]{https://www.microsoft.com}
+    -
